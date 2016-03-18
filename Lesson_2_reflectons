@@ -1,0 +1,6 @@
+Lesson_2_reflectons
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: Creat a .git file in the folder, after I initialize a repostitory I can track the commit in this folder
+
+Q:How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: staging area is inter-media data base, we should add files to the staging area before we make commit.
