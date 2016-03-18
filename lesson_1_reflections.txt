@@ -1,0 +1,14 @@
+it help me understand the differecne between different versions
+and I may be able to roll back if some bugs occur.
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A: Help me roll back to the previous versions.
+
+
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+A: I can choose when to commit and are able to compare between different commit, also I can add comment on each commit and have a entire history of all the commit I have made.
+
+Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+A: becase when we coding, some files may connect together to enable a function, so once a bug occure, we should know what has been changed across all the files. so if we can saving multiple files in one commit, it's easy for us to find the differ.
+
+Q:
